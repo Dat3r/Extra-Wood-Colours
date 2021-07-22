@@ -1,17 +1,13 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "extrawoodcolours",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Extra Wood Blocks",
+  "description": "This is an mod that gives you a vairety of building blocks to use",
   "authors": [
-    "Me!"
+    "Dat3r"
   ],
-  "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
-  },
 
   "license": "CC0-1.0",
   "icon": "assets/modid/icon.png",
@@ -19,7 +15,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "dat3r.extrawoodcolours.ExtraWoodColours"
     ]
   },
   "mixins": [

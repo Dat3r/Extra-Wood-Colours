@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "R": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "result": {
+    "item": "extrawoodcolours:aquaplank",
+    "count": 8
+  }
+}
